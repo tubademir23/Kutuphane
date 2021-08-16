@@ -1,0 +1,6 @@
+D:\Udemy Projeleri\Kütüphane\Kutuphane\Kutuphane.Entities\bin\Debug\Kutuphane.Entities.dll
+D:\Udemy Projeleri\Kütüphane\Kutuphane\Kutuphane.Entities\bin\Debug\Kutuphane.Entities.pdb
+D:\Udemy Projeleri\Kütüphane\Kutuphane\Kutuphane.Entities\obj\Debug\Kutuphane.Entities.csproj.CoreCompileInputs.cache
+D:\Udemy Projeleri\Kütüphane\Kutuphane\Kutuphane.Entities\obj\Debug\Kutuphane.Entities.dll
+D:\Udemy Projeleri\Kütüphane\Kutuphane\Kutuphane.Entities\obj\Debug\Kutuphane.Entities.pdb
+D:\Udemy Projeleri\Kütüphane\Kutuphane\Kutuphane.Entities\obj\Debug\Kutuphane.Entities.csprojResolveAssemblyReference.cache

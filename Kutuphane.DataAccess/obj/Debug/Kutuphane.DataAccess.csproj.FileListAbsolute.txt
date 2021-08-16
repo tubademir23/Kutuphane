@@ -1,0 +1,14 @@
+D:\Udemy Projeleri\Kütüphane\Kutuphane\Kutuphane.DataAccess\bin\Debug\Kutuphane.DataAccess.dll.config
+D:\Udemy Projeleri\Kütüphane\Kutuphane\Kutuphane.DataAccess\bin\Debug\Kutuphane.DataAccess.dll
+D:\Udemy Projeleri\Kütüphane\Kutuphane\Kutuphane.DataAccess\bin\Debug\Kutuphane.DataAccess.pdb
+D:\Udemy Projeleri\Kütüphane\Kutuphane\Kutuphane.DataAccess\bin\Debug\EntityFramework.dll
+D:\Udemy Projeleri\Kütüphane\Kutuphane\Kutuphane.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Udemy Projeleri\Kütüphane\Kutuphane\Kutuphane.DataAccess\bin\Debug\Kutuphane.Entities.dll
+D:\Udemy Projeleri\Kütüphane\Kutuphane\Kutuphane.DataAccess\bin\Debug\Kutuphane.Entities.pdb
+D:\Udemy Projeleri\Kütüphane\Kutuphane\Kutuphane.DataAccess\bin\Debug\EntityFramework.xml
+D:\Udemy Projeleri\Kütüphane\Kutuphane\Kutuphane.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Udemy Projeleri\Kütüphane\Kutuphane\Kutuphane.DataAccess\obj\Debug\Kutuphane.DataAccess.csprojResolveAssemblyReference.cache
+D:\Udemy Projeleri\Kütüphane\Kutuphane\Kutuphane.DataAccess\obj\Debug\Kutuphane.DataAccess.csproj.CoreCompileInputs.cache
+D:\Udemy Projeleri\Kütüphane\Kutuphane\Kutuphane.DataAccess\obj\Debug\Kutuphane.DataAccess.csproj.CopyComplete
+D:\Udemy Projeleri\Kütüphane\Kutuphane\Kutuphane.DataAccess\obj\Debug\Kutuphane.DataAccess.dll
+D:\Udemy Projeleri\Kütüphane\Kutuphane\Kutuphane.DataAccess\obj\Debug\Kutuphane.DataAccess.pdb
